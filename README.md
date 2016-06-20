@@ -6,7 +6,7 @@
 
 通知对话框
 
-![](hhttps://github.com/Qiang3570/Dialog/blob/master/img/Screenshot_20160620-221205.png)
+![](https://github.com/Qiang3570/Dialog/blob/master/img/Screenshot_20160620-221205.png)
 
 列表对话框
 
@@ -22,4 +22,4 @@
 
 进度对话框
 
-![](hhttps://github.com/Qiang3570/Dialog/blob/master/img/Screenshot_20160620-221239.png)
+![](https://github.com/Qiang3570/Dialog/blob/master/img/Screenshot_20160620-221239.png)
