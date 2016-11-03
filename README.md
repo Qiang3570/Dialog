@@ -12,6 +12,6 @@ Android原生Dialog
 
     * 进度对话框
 
-    * 以下是动态示例图
+* 以下是动态示例图
 
 ![](https://github.com/Qiang3570/Dialog/blob/master/sample.gif)
